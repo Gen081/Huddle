@@ -8,7 +8,7 @@ body, h2, p{
 body{
   background-color: hsl(257, 40%, 49%);
   padding: 3em;
-  background-image: url("/pics/bg-desktop.svg");
+  background-image: url("pics/bg-desktop.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;  
